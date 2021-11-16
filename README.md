@@ -1,3 +1,3 @@
-# Hello-world
-This is a place for AI code.
-I like Programming and would like to make a contribution to Computer Scinece and especially to AI.
+# Analysis of Interventions of Fire Department in Montreal
+This is the Capstone project of our Machine Learninga and Data Science program at McGill.
+
